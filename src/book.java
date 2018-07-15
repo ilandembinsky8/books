@@ -12,7 +12,7 @@ public class book {
         //this("", "", 0 );
         price =0;
         title = "";
-        author = "";
+        author = "zzz";
     }
 
     void printMe(){
